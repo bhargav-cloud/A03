@@ -30,6 +30,8 @@ Since the screenshot above shows where to save Webstorm in a MacOs, depending on
 
 # Github: How To Set Up Github
 
+# Step 1: Go to the link 
+
 
 
 
